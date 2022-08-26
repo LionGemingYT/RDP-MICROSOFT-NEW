@@ -1,12 +1,10 @@
 ### _How To Create Rdp In Microsoft_
 
-+ _Free Rdp From Microsoft Ram 7gb/8gb Active Period Rdp 1 Hour, Every 1 Day Can Only Make 10 But Have To Wait For The New Rdp To Die_
++ *Free Rdp From Microsoft Ram 7gb/8gb Active Period Rdp 1 Hour, Every 1 Day Can Only Make 10 But Have To Wait For The New Rdp To Die*
 
-+ >_Microsoft Link_
++ >*Microsoft Link*
 
-```
-https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
-```
++ https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
 
 + <blockquote><b>Token Cloud Shell👇🏻</b></blockquote>
 
