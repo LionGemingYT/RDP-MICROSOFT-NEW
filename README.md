@@ -11,9 +11,9 @@ https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/
 curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
 ```
 
-+ <i>Untuk Rdp nya Windows 2022/10/11 Dan Untuk Negara nya Hk,Us,Eu,Jp,Au,Kr</i>
++ <i>Rdp Windows 2022/10/11 And for his country nya Hk,Us,Eu,Jp,Au,Kr</i>
 
-+ Untuk username dan password nya Semua Sama Tapi untuk Ip Nya Berbeda-Beda
++ _For the Rdp Password and Username, it's all the same, only the IP is different_
 
 
 + Username : ```azureuser```
