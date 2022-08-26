@@ -6,7 +6,7 @@
 
 https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
 
-+ <blockquote><b>Token Cloud Shell👇🏻</b></blockquote>
++ <blockquote><b>_Token Cloud Shell👇🏻_</b></blockquote>
 
 ```  
 curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
