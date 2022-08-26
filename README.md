@@ -1,6 +1,6 @@
-### HOW TO CREATE RDP IN MICROSOFT
+### How To Create Rdp In Microsoft
 
-+ *Rdp Gratis Dari Microsoft Ram 7 Dan Masa aktif 4 Jam, jika close boleh buat lagi untuk akun google nya boleh sama tapi 1 hari cuma bisa bikin satu rdp*
+> *Rdp Gratis Dari Microsoft Ram 7 Dan Masa aktif 4 Jam, jika close boleh buat lagi untuk akun google nya boleh sama tapi 1 hari cuma bisa bikin satu rdp*
 
 + _Link Microsoft_ ⬇️
 
